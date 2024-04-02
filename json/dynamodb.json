@@ -1,1 +1,64 @@
-
+[
+  {
+    "Item": {
+        "Authors": {
+            "SS": ["Author1", "Author2"]
+        },
+        "Dimensions": {
+            "S": "8.5 x 11.0 x 1.5"
+        },
+        "ISBN": {
+            "S": "333-3333333333"
+        },
+        "Id": {
+            "S": "103"
+        },
+        "InPublication": {
+            "BOOL": false
+        },
+        "PageCount": {
+            "N": "600"
+        },
+        "Price": {
+            "N": "2000"
+        },
+        "ProductCategory": {
+            "S": "Book"
+        },
+        "Title": {
+            "S": "Book 103 Title"
+        }
+    }
+ },
+ {
+    "Item": {
+        "Authors": {
+            "SS": ["Author1", "Author2"]
+        },
+        "Dimensions": {
+            "S": "8.5 x 11.0 x 1.5"
+        },
+        "ISBN": {
+            "S": "333-1"
+        },
+        "Id": {
+            "S": "104"
+        },
+        "InPublication": {
+            "BOOL": true
+        },
+        "PageCount": {
+            "N": "600"
+        },
+        "Price": {
+            "N": "100"
+        },
+        "ProductCategory": {
+            "S": "Book"
+        },
+        "Title": {
+            "S": "Book 104 Title"
+        }
+    }
+ }
+]
